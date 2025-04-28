@@ -1,5 +1,5 @@
 # 👋 Heyho, I'm @cozyTsuko, ...
-I'm currently 19 yo, studying software development and ai at an uni and am working as a software developer.
+I'm currently 20 yo, studying software development and ai at an uni and am working as a software developer.
 # 👀 I’m interested in ...
 Kinda everything: AI, software and game development, and a lot other stuff.
 # 🌱 I’m currently learning ...
@@ -10,3 +10,4 @@ Don't really care, but generally he/him.
 - neovim config
 - cozyLife planner
 - some automation of boring tasks
+- Gameboy Emulator
